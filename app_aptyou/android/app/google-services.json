@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285899174488",
+    "project_id": "fire-apt-you",
+    "storage_bucket": "fire-apt-you.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285899174488:android:e3eb65082eb3fb3969102d",
+        "android_client_info": {
+          "package_name": "com.example.app_aptyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285899174488-i4p7mrtva79mr7g7d98qlusev339odoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOQSLQI5buiXRjEy8Ts8IGql1Fzad3cIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285899174488-i4p7mrtva79mr7g7d98qlusev339odoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
